@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\UnityProject\\HitUFO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\viewers\\iuseraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\viewers\\iuseraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\viewers\\usergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\viewers\\usergui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\controllers\\ssdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\ssdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\controllers\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\controllers\\roundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\roundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\controllers\\iscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\iscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\controllers\\diskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controllers\\diskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\ssactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\ssactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\ssaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\ssaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\physicflyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\physicflyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\physicactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\physicactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\iactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\iactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\iactioncallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\iactioncallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\ccflyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\ccflyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|d:\\workspace\\unityproject\\hitufo\\assets\\scripts\\actions\\ccactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB90880-A555-F140-B5DF-3DC1FC27414D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\ccactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserGUI.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Viewers\\UserGUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Viewers\\UserGUI.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Viewers\\UserGUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Viewers\\UserGUI.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:56.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserAction.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Viewers\\IUserAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Viewers\\IUserAction.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Viewers\\IUserAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Viewers\\IUserAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:54.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SSDirector.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\SSDirector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\SSDirector.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\SSDirector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\SSDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:51.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\Singleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\Singleton.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\Singleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:47.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\ScoreController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\ScoreController.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\ScoreController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\ScoreController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:43.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoundController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\RoundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\RoundController.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\RoundController.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\RoundController.cs*",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAgwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:36.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISceneController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\ISceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\ISceneController.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\ISceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\ISceneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:30.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiskFactory.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\DiskFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controllers\\DiskFactory.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Controllers\\DiskFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controllers\\DiskFactory.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAgwK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SSActionManager.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\SSActionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\SSActionManager.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\SSActionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\SSActionManager.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SSAction.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\SSAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\SSAction.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\SSAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\SSAction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAywBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:15.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhysicFlyAction.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\PhysicFlyAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\PhysicFlyAction.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\PhysicFlyAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\PhysicFlyAction.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:11.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhysicActionManager.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\PhysicActionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\PhysicActionManager.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\PhysicActionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\PhysicActionManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAywDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:12:04.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IActionManager.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\IActionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\IActionManager.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\IActionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\IActionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:11:54.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IActionCallBack.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\IActionCallBack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\IActionCallBack.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\IActionCallBack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\IActionCallBack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:11:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CCFlyAction.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\CCFlyAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\CCFlyAction.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\CCFlyAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\CCFlyAction.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:11:46.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CCActionManager.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\CCActionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\CCActionManager.cs",
+              "ToolTip": "D:\\WorkSpace\\UnityProject\\HitUFO\\Assets\\Scripts\\Actions\\CCActionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\CCActionManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:11:37.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
