@@ -64,9 +64,7 @@
     <Compile Include="Assets\Script\MusicManager.cs" />
     <Compile Include="Assets\Script\CameraSwitch.cs" />
     <Compile Include="Assets\Script\ArcherController.cs" />
-    <Compile Include="Assets\Script\movingUpDown.cs" />
     <Compile Include="Assets\Script\CameraController.cs" />
-    <Compile Include="Assets\Script\movingRightLeft.cs" />
     <Compile Include="Assets\Script\UserGui.cs" />
     <Compile Include="Assets\Script\ArrowController.cs" />
     <Compile Include="Assets\Script\skyboxController.cs" />

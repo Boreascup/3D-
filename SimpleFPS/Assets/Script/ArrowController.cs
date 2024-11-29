@@ -66,23 +66,25 @@ public class ArrowController : MonoBehaviour
 
     void TriggerTargetReaction(GameObject target)
     {
-        // 播放粒子效果
-        //ParticleSystem particle = target.GetComponent<ParticleSystem>();
-        //if (particle != null)
-        //{
-        //    particle.Play(); // 启动粒子效果
-        //}
+        // 停止动画播放
+        Animator targetAnimator = target.GetComponent<Animator>();
+        if (targetAnimator != null)
+        {
+            targetAnimator.enabled = false; // 停止动画
+        }
 
         // 设置靶子为可下落状态
         Rigidbody targetRb = target.GetComponent<Rigidbody>();
         if (targetRb != null)
         {
             targetRb.isKinematic = false; // 解除刚体固定
+            targetRb.useGravity = true;   // 启用重力
         }
 
         // 可选择性摧毁靶子
-        Destroy(target, 3f); // 3 秒后销毁靶子
+        Destroy(target, 2f); // 3 秒后销毁靶子
     }
+
 
 
     void ShowHitMessage(string message)

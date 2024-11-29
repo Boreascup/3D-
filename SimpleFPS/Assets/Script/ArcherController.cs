@@ -13,7 +13,7 @@ public class ArcherController : MonoBehaviour
     public Transform firePoint; // 箭矢发射点
 
     public Camera maincam; // 主摄像机
-    private bool isAiming = false; // 是否正在瞄准
+    public bool isAiming = false; // 是否正在瞄准
     public float normalFOV = 60f; // 普通视角
     public float aimFOV = 30f; // 瞄准时视角
     public float aimTransitionSpeed = 5f; // 视角平滑过渡速度
@@ -32,10 +32,10 @@ public class ArcherController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
+
     void Update()
     {
-
-             // 右键按下，开启瞄准
+        // 右键按下，开启瞄准
         if (Input.GetMouseButtonDown(1))
         {
             isAiming = true;
@@ -71,7 +71,7 @@ public class ArcherController : MonoBehaviour
             {
                 pullDuration += Time.deltaTime;
                 pullStrength = Mathf.Clamp01(pullDuration / maxPullDuration);
-                animator.SetFloat("pullStrength", pullStrength);
+                animator.SetFloat("pullStrength", pullStrength); // 更新Animator中的参数
             }
 
             // 松开空格键：保持当前拉力状态（Hold 状态）
@@ -93,6 +93,7 @@ public class ArcherController : MonoBehaviour
         }
     }
 
+
     /// <summary>
     /// 发射箭矢，绑定到Shoot动画的事件
     /// </summary>
@@ -100,9 +101,9 @@ public class ArcherController : MonoBehaviour
     {
         // 检查射箭区域
         Vector3 currentPosition = transform.position;
-        Vector3 area1 = new Vector3(487f, 46f, 592f);
+        Vector3 area1 = new Vector3(489f, 46f, 593f);
         Vector3 area2 = new Vector3(666f, 4f, 343f);
-        float radius = 15f;
+        float radius = 10f;
 
         bool inArea1 = Vector3.Distance(currentPosition, area1) <= radius;
         bool inArea2 = Vector3.Distance(currentPosition, area2) <= radius;
@@ -136,7 +137,7 @@ public class ArcherController : MonoBehaviour
         Rigidbody rd = arrow.GetComponent<Rigidbody>();
         if (rd != null)
         {
-            rd.AddForce(this.transform.forward * 40 * pullStrength, ForceMode.Impulse);
+            rd.AddForce(this.transform.forward * 1 * pullStrength, ForceMode.Impulse);
 
             // 播放射箭音效
             if (arrowShootSound != null)
@@ -159,11 +160,11 @@ public class ArcherController : MonoBehaviour
     bool IsInArea()
     {
         Vector3 currentPosition = transform.position;
-        Vector3 area1 = new Vector3(487f, 46f, 592f);
+        Vector3 area1 = new Vector3(489f, 46f, 593f);
         Vector3 area2 = new Vector3(666f, 4f, 343f);
         float distance1 = Vector3.Distance(currentPosition, area1);
         float distance2 = Vector3.Distance(currentPosition, area2);
-        float radius = 15f;
+        float radius = 10f;
 
         if (distance1 <= radius || distance2 <= radius)
         {

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    public Transform target;  // 目标物体（比如玩家）
+    public Transform target;  // 目标物体
     public Vector3 offset;  // 摄像机相对目标的偏移
 
     void Start()

@@ -359,8 +359,6 @@
 "Assets/Script/CameraController.cs"
 "Assets/Script/CameraFollow.cs"
 "Assets/Script/CameraSwitch.cs"
-"Assets/Script/movingRightLeft.cs"
-"Assets/Script/movingUpDown.cs"
 "Assets/Script/MusicManager.cs"
 "Assets/Script/skyboxController.cs"
 "Assets/Script/UserGui.cs"
